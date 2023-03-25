@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pr0sp3c7
-- 👀 I’m curious about hacking | gaming | hardware | programming |
-- 🌱 I’m currently learning Scripting yes Python & Bash at the moment
+- 👀 I’m curious about Cyber Sec | gaming | hardware | programming |
+- 🌱 I’m currently learning Python / Js / Bash
 - 📫 How to reach me https://twitter.com/PRO5P3C7
 
 <!---
